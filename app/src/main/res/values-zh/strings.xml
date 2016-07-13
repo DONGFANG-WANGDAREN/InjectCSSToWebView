@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">在WebView中注入CSS</string>
+    <string name="InjectCSSBeforeLoadWebView">在WebView加载前注入CSS</string>
+    <string name="InjectCSSAfterLoadWebView">在WebView加载后注入CSS</string>
+
+</resources>
