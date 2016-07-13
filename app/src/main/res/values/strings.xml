@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">InjectCSSToWebView</string>
+    <string name="app_name">Inject CSS To WebView</string>
+    <string name="InjectCSSBeforeLoadWebView">Inject CSS Before Load WebView</string>
+    <string name="InjectCSSAfterLoadWebView">Inject CSS After Load WebView</string>
 </resources>
